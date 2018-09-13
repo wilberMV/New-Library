@@ -1,4 +1,4 @@
 # materialUpeu_library
-una simple libreria xd
 
-https://jitpack.io/#paulneo/materialUpeu_library/0.1.0
+
+https://jitpack.io/#wilberMV/New-Library/0.0.0.1
